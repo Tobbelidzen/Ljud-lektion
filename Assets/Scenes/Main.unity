@@ -4106,6 +4106,71 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 01e6d12543098ad4e8b522a22ddc93b9, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 8c041afe04e74e948a6ae13a9a0fe519, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: 2d14f524b9443b4439dbeef4f5e7a026, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[3]
+      value: 
+      objectReference: {fileID: 8300000, guid: f6f1541d7bfa8e24f858667f485de782, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[4]
+      value: 
+      objectReference: {fileID: 8300000, guid: 432f04ec189d0e640bb858ab98183cc4, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[5]
+      value: 
+      objectReference: {fileID: 8300000, guid: 01e6d12543098ad4e8b522a22ddc93b9, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[6]
+      value: 
+      objectReference: {fileID: 8300000, guid: 8c041afe04e74e948a6ae13a9a0fe519, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[7]
+      value: 
+      objectReference: {fileID: 8300000, guid: 2d14f524b9443b4439dbeef4f5e7a026, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[8]
+      value: 
+      objectReference: {fileID: 8300000, guid: f6f1541d7bfa8e24f858667f485de782, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[9]
+      value: 
+      objectReference: {fileID: 8300000, guid: 432f04ec189d0e640bb858ab98183cc4, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[10]
+      value: 
+      objectReference: {fileID: 8300000, guid: 01e6d12543098ad4e8b522a22ddc93b9, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[11]
+      value: 
+      objectReference: {fileID: 8300000, guid: 8c041afe04e74e948a6ae13a9a0fe519, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[12]
+      value: 
+      objectReference: {fileID: 8300000, guid: 2d14f524b9443b4439dbeef4f5e7a026, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[13]
+      value: 
+      objectReference: {fileID: 8300000, guid: f6f1541d7bfa8e24f858667f485de782, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardSteps.Array.data[14]
+      value: 
+      objectReference: {fileID: 8300000, guid: 432f04ec189d0e640bb858ab98183cc4, type: 3}
+    - target: {fileID: 7306581412576807930, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8431836016390883624, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e,
         type: 3}
       propertyPath: m_RootOrder
@@ -9667,7 +9732,7 @@ PrefabInstance:
     - target: {fileID: 4401863854545358135, guid: 6cfaadcb953af1c448a1b82b94f47442,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -34.22081
+      value: -33.33287
       objectReference: {fileID: 0}
     - target: {fileID: 4401863854545358135, guid: 6cfaadcb953af1c448a1b82b94f47442,
         type: 3}
